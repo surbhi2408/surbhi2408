@@ -29,7 +29,7 @@
  </a>  &nbsp; &nbsp; 
  <a href="https://twitter.com/MayankSurbhi">
     <img align="center" width="26px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/twitter.png" />
- </a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+ </a>  &nbsp; &nbsp; &nbsp; &nbsp;  
 <a href="mailto:surbhimayank1@gmail.com">
     <img align="center" width="26px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/gmail.png" />
 </a>
