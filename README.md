@@ -23,13 +23,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi2408&layout=compact&langs_count=10&theme=cobalt" />
 </a>
 
-### Contact me here     :point_down:
-&nbsp; &nbsp; <a href="https://www.linkedin.com/in/surbhi2408/">
+### Contact me here   :point_down:
+&nbsp; <a href="https://www.linkedin.com/in/surbhi2408/">
     <img align="center" width="26px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/linkedin.jpeg" />
  </a>  &nbsp; &nbsp; 
  <a href="https://twitter.com/MayankSurbhi">
     <img align="center" width="26px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/twitter.png" />
- </a>  &nbsp; &nbsp; &nbsp; &nbsp;  
+ </a>  &nbsp; &nbsp; &nbsp; 
 <a href="mailto:surbhimayank1@gmail.com">
     <img align="center" width="26px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/gmail.png" />
 </a>
