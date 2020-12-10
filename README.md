@@ -1,4 +1,4 @@
-### Hey there, I'm [Surbhi!](https://github.com/surbhi2408)
+### Hey there, I'm [Surbhi!](https://github.com/surbhi2408) <img height="50px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/waving_hand.gif">
 
 <br>
 
