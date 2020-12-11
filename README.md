@@ -12,7 +12,7 @@
 
 - :dancers: I'm looking forward to collaborate with other content creators.
 
-- :zap: Fun fact: I love to dance and sing.
+- :zap: **Fun fact:** I love to dance and sing.
 
 <br>
 
