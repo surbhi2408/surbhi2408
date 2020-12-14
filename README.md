@@ -12,7 +12,7 @@
 
 - :dancers: I'm looking forward to collaborate with other content creators.
 
-- :zap: Fun fact: I love to dance and sing.
+- :zap: **Fun fact:** I love to dance and sing.
 
 <br>
 
@@ -26,7 +26,7 @@
 ### Contact me here  :point_down:
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/surbhi2408/">
     <img align="center" width="26px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/linkedin.jpeg" />
- </a>  &nbsp; &nbsp; 
+ </a>  &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://twitter.com/MayankSurbhi">
     <img align="center" width="26px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/twitter.png" />
  </a>  &nbsp; &nbsp; &nbsp; 
@@ -35,7 +35,11 @@
 </a>
 <br>
 
-### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 :eyes:
+### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 Count :eyes:
 
+<<<<<<< HEAD
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=surbhi2408) -->
 <img align="left" src = "https://profile-counter.glitch.me/surbhi2408/count.svg" alt ="Loading">
+=======
+/*![visitors](https://visitor-badge.glitch.me/badge?page_id=surbhi2408) */
+>>>>>>> d41147e8db2db411ad13b4cbd3afb6b0f56860d6
