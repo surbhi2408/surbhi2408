@@ -35,6 +35,6 @@
 </a>
 <br>
 
-### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 Count :eyes:
+### Visitors Count :eyes:
 
 <img align="left" src = "https://profile-counter.glitch.me/surbhi2408/count.svg" alt ="Loading">
