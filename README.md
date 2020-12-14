@@ -35,6 +35,6 @@
 </a>
 <br>
 
-### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 :eyes:
+### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 Count :eyes:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=surbhi2408)
+/*![visitors](https://visitor-badge.glitch.me/badge?page_id=surbhi2408) */
