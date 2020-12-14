@@ -37,4 +37,5 @@
 
 ### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 :eyes:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=surbhi2408)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=surbhi2408) -->
+<img align="left" src = "https://profile-counter.glitch.me/surbhi2408/count.svg" alt ="Loading">
