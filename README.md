@@ -12,7 +12,7 @@
 
 - :dancers: I'm looking forward to collaborate with other content creators.
 
-- :smile: Pronouns: She/Her
+- :smile: **Pronouns:** She/Her
 
 - :zap: **Fun fact:** I love to dance and sing.
 
