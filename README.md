@@ -39,4 +39,4 @@
 
 ### Visitors Count :eyes:
 
-<img align="left" src = "https://profile-counter.glitch.me/surbhi2408/count.svg" alt ="Loading">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=surbhi2408)
