@@ -12,6 +12,8 @@
 
 - :dancers: I'm looking forward to collaborate with other content creators.
 
+- :smile: **Pronouns:** She/Her
+
 - :zap: **Fun fact:** I love to dance and sing.
 
 <br>
@@ -35,11 +37,8 @@
 </a>
 <br>
 
-### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 Count :eyes:
+### Visitors Count :eyes:
 
-<<<<<<< HEAD
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=surbhi2408) -->
-<img align="left" src = "https://profile-counter.glitch.me/surbhi2408/count.svg" alt ="Loading">
-=======
-/*![visitors](https://visitor-badge.glitch.me/badge?page_id=surbhi2408) */
->>>>>>> d41147e8db2db411ad13b4cbd3afb6b0f56860d6
+![visitors](https://visitor-badge.glitch.me/badge?page_id=surbhi2408)
+
+<!-- <img align="left" src = "https://profile-counter.glitch.me/surbhi2408/count.svg" alt ="Loading"> -->
