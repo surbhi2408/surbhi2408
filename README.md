@@ -1,6 +1,6 @@
 ### Hey there, I'm [Surbhi!](https://github.com/surbhi2408) <img height="50px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/waving_hand.gif">
 
-<img align="right" alt="GIF" width="500px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/coding-gif.gif"/>
+<img align="right" alt="GIF" width="450px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/coding-gif.gif"/>
 
 <br>
 
@@ -28,7 +28,6 @@
 </a>
 
 <h4 align="left">Show ❤️ By Starring My <a href='https://github.com/surbhi2408?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=surbhi2408&logoColor=blue" /></a></h4>
-<br>
 
 ### Contact me here  :point_down:
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/surbhi2408/">
