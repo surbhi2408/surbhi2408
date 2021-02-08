@@ -32,7 +32,11 @@
 <h4 align="left">Show ❤️ By Starring My <a href='https://github.com/surbhi2408?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=surbhi2408&logoColor=blue" /></a></h4>
 
 ### Languages and Tools:
-
+<p align="left"><img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/html.png" alt="html" width="30" height="30"/> <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/css.png" alt="css" width="30" height="30"/> <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/dart.png" alt="dart" width="30" height="30"/> <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/java.png" alt="java" width="30" height="30"/>
+<img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/mysql.png" alt="mysql" width="30" height="30"/> <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/python.png" alt="python" width="30" height="30"/>  
+<img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/android_studio.png" alt="android_studio" width="30" height="30"/>
+ </p>
+ <br>
 
 ### Contact me here  :point_down:
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/surbhi2408/">
