@@ -32,11 +32,10 @@
 <h4 align="left">Show ❤️ By Starring My <a href='https://github.com/surbhi2408?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=surbhi2408&logoColor=blue" /></a></h4>
 
 ### Languages and Tools:
-<p align="left"><img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/html.png" alt="html" width="30" height="30"/> <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/css.png" alt="css" width="30" height="30"/> <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/dart.png" alt="dart" width="30" height="30"/> <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/java.png" alt="java" width="30" height="30"/>
-<img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/mysql.png" alt="mysql" width="30" height="30"/> <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/python.png" alt="python" width="30" height="30"/>  
-<img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/android_studio.png" alt="android_studio" width="30" height="30"/>
+<p align="left"><img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/html.png" alt="html" width="40" height="50"/> &nbsp;<img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/css.png" alt="css" width="40" height="50"/>&nbsp; <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/dart.png" alt="dart" width="40" height="50"/>&nbsp; <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/java.png" alt="java" width="40" height="50"/>&nbsp;
+<img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/mysql.png" alt="mysql" width="40" height="50"/>&nbsp; <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/python.png" alt="python" width="40" height="50"/> &nbsp; 
+<img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/android_studio.png" alt="android_studio" width="40" height="50"/>&nbsp; <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/flutter.png" alt="flutter" width="40" height="50"/>&nbsp; <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/intellij_idea.png" alt="intellij_idea" width="40" height="50"/>&nbsp; <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/jupyter_notebook.png" alt="jupyter_notebook" width="40" height="50"/>&nbsp; <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/pycharm.png" alt="pycharm" width="40" height="50"/>&nbsp; <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/sublime_text.jpg" alt="sublime_text" width="40" height="50"/>&nbsp; <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/vscode.png" alt="vscode" width="40" height="50"/>&nbsp;
  </p>
- <br>
 
 ### Contact me here  :point_down:
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/surbhi2408/">
