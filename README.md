@@ -10,6 +10,8 @@
 
 - :computer: I am an undergraduate learning **Computer Science and Engineering** at MNNIT, Allahabad
 
+- :seedling: I am looking forward to learn **Machine Learning**
+
 - :iphone: I am currently working on **Mobile App Development**
 
 - :dancers: I'm looking forward to collaborate with other content creators.
@@ -29,6 +31,9 @@
 
 <h4 align="left">Show ❤️ By Starring My <a href='https://github.com/surbhi2408?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=surbhi2408&logoColor=blue" /></a></h4>
 <br>
+
+### Languages and Tools:
+
 
 ### Contact me here  :point_down:
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/surbhi2408/">
