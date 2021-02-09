@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi2408&layout=compact&langs_count=10&theme=dracula" />
 </a>
 
-<h2 align="left">Show ❤️ By Starring My <a href='https://github.com/surbhi2408?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=surbhi2408&logoColor=blue" /></a></h2>
+<h2 align="left">Show ❤️ By Starring Some Of My <a href='https://github.com/surbhi2408?tab=repositories'><img align='center'  height="24" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=surbhi2408&logoColor=blue" /></a></h2>
 
 ### Languages and Tools:
 <p align="left"><img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/html.png" alt="html" width="40" height="50"/> &nbsp;<img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/css.png" alt="css" width="40" height="50"/>&nbsp; <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/dart.png" alt="dart" width="50" height="50"/>&nbsp; <img src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/java.png" alt="java" width="40" height="50"/>&nbsp;
