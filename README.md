@@ -12,7 +12,7 @@
 
 - :seedling: I am looking forward to learn **Machine Learning**
 
-- :iphone: I am currently working on **Mobile App Development**
+- :iphone: I am currently learning **Javascript**
 
 - :dancers: I'm looking forward to collaborate with other content creators.
 
