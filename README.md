@@ -1,12 +1,12 @@
 ### Hey there, I'm [Surbhi!](https://github.com/surbhi2408) <img height="50px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/waving_hand.gif">
 
-<img align="centre" alt="GIF" width="450px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/coding-gif.gif"/>
-
 <br>
 
 ## I am an enthusiastic student :slightly_smiling_face:
 
 <br>
+
+<img align="centre" alt="GIF" width="450px" src="https://github.com/surbhi2408/surbhi2408/blob/main/assets/coding-gif.gif"/>
 
 - :computer: I am an undergraduate learning **Computer Science and Engineering** at MNNIT, Allahabad
 
